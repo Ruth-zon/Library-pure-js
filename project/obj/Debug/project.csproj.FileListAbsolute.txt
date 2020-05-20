@@ -1,0 +1,69 @@
+M:\js\project\project\bin\roslyn\csc.exe
+M:\js\project\project\bin\roslyn\csc.exe.config
+M:\js\project\project\bin\roslyn\csc.rsp
+M:\js\project\project\bin\roslyn\csi.exe
+M:\js\project\project\bin\roslyn\csi.rsp
+M:\js\project\project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\js\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\js\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\js\project\project\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\js\project\project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\js\project\project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\js\project\project\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\js\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\js\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\js\project\project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\js\project\project\bin\roslyn\System.AppContext.dll
+M:\js\project\project\bin\roslyn\System.Collections.Immutable.dll
+M:\js\project\project\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\js\project\project\bin\roslyn\System.IO.FileSystem.dll
+M:\js\project\project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\js\project\project\bin\roslyn\System.Reflection.Metadata.dll
+M:\js\project\project\bin\roslyn\vbc.exe
+M:\js\project\project\bin\roslyn\vbc.exe.config
+M:\js\project\project\bin\roslyn\vbc.rsp
+M:\js\project\project\bin\roslyn\VBCSCompiler.exe
+M:\js\project\project\bin\roslyn\VBCSCompiler.exe.config
+M:\js\project\project\bin\project.dll.config
+M:\js\project\project\bin\project.dll
+M:\js\project\project\bin\project.pdb
+M:\js\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\js\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\js\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+M:\js\project\project\obj\Debug\project.dll
+M:\js\project\project\obj\Debug\project.pdb
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\csc.exe
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\csc.exe.config
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\csc.rsp
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\csi.exe
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\csi.rsp
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\System.AppContext.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\System.Collections.Immutable.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\System.IO.FileSystem.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\vbc.exe
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\vbc.exe.config
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\vbc.rsp
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\VBCSCompiler.exe
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\roslyn\VBCSCompiler.exe.config
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\project.dll.config
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\project.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\project.pdb
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\obj\Debug\project.dll
+D:\מסמכים\שעיה רות\פרויקטים הנדסאים\project\project\obj\Debug\project.pdb

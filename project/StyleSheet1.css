@@ -1,0 +1,13 @@
+﻿body {
+ 
+}
+
+table {
+    /*border:5px double #bb93e2*/
+    font-size: 14pt;
+    font-family: 'Segoe UI Symbol';
+    
+}
+td {
+    background-color: #c7c7c7;
+}
